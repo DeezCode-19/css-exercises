@@ -70,7 +70,7 @@ div.text {
 */
 
 #confirm-button {
-  background: green;
+  background: rgb(0, 255, 0);
   color: white;
   font-weight: bold;
 }
